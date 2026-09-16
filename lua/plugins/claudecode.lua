@@ -1,0 +1,9 @@
+return {
+  "coder/claudecode.nvim",
+  opts = {
+    terminal = {
+      split_width_percentage = 0.30,
+      split_side = "right",
+    },
+  },
+}
